@@ -1,0 +1,28 @@
+{
+  "name": "cinejoy-tizenbrew",
+  "version": "1.0.0",
+  "description": "TizenBrew site-modification module that adds Samsung TV remote support (D-pad, OK/Back, media keys) to CineJoy at cinejoy.to.",
+  "packageType": "mods",
+  "appName": "CineJoy",
+  "websiteURL": "https://cinejoy.to",
+  "main": "main.js",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaRewind",
+    "MediaFastForward",
+    "ColorF0Red",
+    "ColorF1Green",
+    "ColorF2Yellow",
+    "ColorF3Blue"
+  ],
+  "keywords": [
+    "tizenbrew",
+    "cinejoy",
+    "tizen",
+    "samsung-tv"
+  ],
+  "license": "MIT"
+}
